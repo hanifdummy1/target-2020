@@ -1,4 +1,6 @@
 list target 2020 v1
 - Nabung Buat Umroh
 - Beli Mobil Sport
-- Beli sapi
+- Beli Mas
+
+- Beli sapi glondongan
